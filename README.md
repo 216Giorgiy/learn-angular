@@ -1,4 +1,4 @@
-![angularjs](learn-angular/angularjs.PNG)
+![angularjs](https://github.com/216Giorgiy/learn-angular/angularjs.PNG)
 
 # learn-angular
 
